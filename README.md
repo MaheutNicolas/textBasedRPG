@@ -30,3 +30,13 @@ start the app, acces database, and stock template object. (one of my many error 
 
 ### town 
 organise instance when player explore town
+
+
+## Lesson Learned 
+
+I learn some basic in the world of architecture.
+But it's clearly not enought.
+I code everything like object, but everything can't be object.
+I need a fixe structure to help organize the object who will pass trought.
+I realize my error, when the inventory pass throught 4 different class in total.
+
